@@ -186,10 +186,5 @@ int main(void)
     cll.Insert(-2,d3);
     cll.Print();
 
-
-
-    
-
-
     return 0;
 }
